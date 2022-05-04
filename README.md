@@ -29,7 +29,7 @@
 https://github.com/TWPUB/TWPUB-Tools
 https://tw-cn.netlify.app/
 
-QQ群：946052860
+
 TiddlyWiki（太微）相关资源：中文教程、插件源、论坛、桌面应用
 1. 大家可以一起编辑的中文教程项目： https://tw-cn.netlify.app/
 2. 社区插件源： https://tw-cpl.netlify.app
@@ -37,4 +37,5 @@ TiddlyWiki（太微）相关资源：中文教程、插件源、论坛、桌面�
 4. 桌面版应用 TiddlyGit （太记）：https://github.com/tiddly-gittly/TiddlyGit-Desktop
 太记介绍和教程地址： https://zhuanlan.zhihu.com/p/140473235
 希望大家都能爱上TiddlyWiki！
-大家写文章记得加上群号和这些资源链接！
+
+QQ群：946052860
