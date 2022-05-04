@@ -1,7 +1,7 @@
 # TWPUB墨屉
-收录TiddlyWiki的电子书（TWPUB），墨屉格式电子书
+收录TiddlyWiki\墨屉格式的电子书（TWPUB）
 
-
+仅个人收集分享学习。
 
 
 ## 电子书转换（epub 到 twpub）
