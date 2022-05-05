@@ -4,11 +4,12 @@
 仅个人收集分享学习。
 
 
-## 免浏览器下载保存
+## 一、回写式保存文件
 
 免浏览器下载的保存方法webdav：
 1. rclone（单文件软件）：执行 rclone serve webdav <包含wiki的目录>。
 2. wsgidav（python软件）:软件官网：https://wsgidav.readthedocs.io/en/latest/index.html
+
 
 免浏览器下载的保存方法：TiddlyStow.html
 1. 打开该页面然后选择墨屉wiki.html，即可
@@ -17,7 +18,7 @@
 
 
 
-## 电子书转换（epub 到 twpub）
+## 二、电子书转换（epub 到 twpub）
 
 1. 安装nodejs
    nodejs官网下载链接：http://nodejs.cn/download/current/
