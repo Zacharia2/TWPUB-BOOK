@@ -3,7 +3,7 @@
 
 仅个人收集分享学习。
 
-所以我的渐进式阅读目标已经达成了，首先是找到自己想要渐进式阅读的电纸书epub，然后用TWPUB-Tools工具转换，然后拖放放进wiki，然后重命名wiki+书目后缀，墨屉wiki的设置中标题选项＋书名后缀，然后放进onedrive。电脑就用TiddlyStow.html打开进行渐进式阅读。反正会同步的，没有电脑时候手机就用tiddloid lite.apk继续阅读。
+supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方式，所以我的渐进式阅读目标已经达成了，首先是找到自己想要渐进式阅读的电纸书epub，然后用TWPUB-Tools工具转换，然后拖放放进wiki，然后重命名wiki+书目后缀，墨屉wiki的设置中标题选项＋书名后缀，然后放进onedrive。电脑就用TiddlyStow.html打开进行渐进式阅读。反正会同步的，没有电脑时候手机就用tiddloid lite.apk继续阅读。
 
 
 ## 一、回写式保存文件
