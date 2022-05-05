@@ -15,6 +15,7 @@
 1. 打开该页面然后选择墨屉wiki.html，即可
 2. 支持保存常用文件列表
 3. 刷新返回TiddlyStow页面
+4. 来源于https://github.com/btheado/tiddlystow
 
 
 
