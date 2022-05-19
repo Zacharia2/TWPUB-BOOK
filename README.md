@@ -54,11 +54,11 @@ supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方
 
 ## 帮助链接
 
-https://github.com/TWPUB/TWPUB-Tools
+- https://github.com/TWPUB/TWPUB-Tools
 
-https://tw-cn.netlify.app/
+- https://tw-cn.netlify.app/
 
-[SuperMemo渐进式阅读PDF书籍太麻烦？试试相同类型的墨屉吧！](https://www.bilibili.com/read/cv16649634)
+- [SuperMemo渐进式阅读PDF书籍太麻烦？试试相同类型的墨屉吧！](https://www.bilibili.com/read/cv16649634)
 
 
 
