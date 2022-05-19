@@ -15,7 +15,8 @@ supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方
 
 墨屉是由条目（卡片组成），可以通过筛选器搭配标签使用，实现渐进式阅读。算法采用优于sm18的 FSRS 间隔重复算法。
 
-
+### 自动化完成转换与导入的工作的社区仓库
+https://github.com/Zacharia2/TWPUB-Tools 只需要将电子书放进指定目录然后拖动TWPUBPluginLibrary-TiddlyMemo.tid文件到墨屉，使用![image](https://user-images.githubusercontent.com/32425955/169266021-6373981d-582a-4ad1-ad6b-2311c8c2abb8.png)中的![image](https://user-images.githubusercontent.com/32425955/169266047-e179cc38-8afe-4b5e-b011-6ef1e8c014bc.png)打开官方导入twpub书籍入口，可以看到墨屉社区书库，单击即可选择生成好的电子书导入。
 
 ## 一、回写式保存文件
 
