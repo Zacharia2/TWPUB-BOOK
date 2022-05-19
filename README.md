@@ -1,17 +1,19 @@
 # TWPUB墨屉
 收录TiddlyWiki\墨屉格式的电子书（TWPUB）
 
-仅个人学习之用（本仓库不会删除，欢迎大家上传分享twpub图书，提交请求！。🙂，喜欢记得点小星星哦这是对我的鼓励，谢谢。爱你们！）
+仅个人学习之用（本仓库不会删除，欢迎大家上传分享twpub图书，提交请求🙂！ 喜欢记得点小星星哦这是对我的鼓励，谢谢。爱你们！）
 
-supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方式，所以我的渐进式阅读目标已经达成了，首先是找到自己想要渐进式阅读的电纸书epub。用TWPUB-Tools工具转换，然后拖放进墨屉然后设置导入书籍。然后在墨屉设置（小齿轮）-信息选项卡-基本组重命名墨屉标题设置为：🦑墨屉+书名。最后放进onedrive即可进入同步。
 
-电脑端使用TiddlyStow.html打开墨屉进行渐进式阅读。（不要直接打开墨屉.html，这样保存时候你会得到很多html墨屉程序文件，这是因为墨屉与浏览器的保存机制导致的，是优点也是缺点。TiddlyStow.html可以让你始终保存一个墨屉书籍HTML文件，TiddlyStow.html在我的GitHub仓库中可以找到。）
+
+supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方式，所以我的渐进式阅读目标已经达成了，首先是找到自己想要渐进式阅读的电纸书epub。用TWPUB-Tools工具转换为TWPUB.json，然后拖放进墨屉，然后在墨屉**设置（小齿轮）-信息选项卡-基本组**重命名墨屉标题，设置为：**🦑墨屉+书名**。然后放进onedrive即可进入同步。
+
+电脑端使用TiddlyStow.html打开墨屉进行渐进式阅读。（不要直接打开墨屉.html，这样保存时候你会得到很多html墨屉程序文件，这是因为墨屉与浏览器的保存机制导致的，是优点也是缺点。TiddlyStow.html可以让你始终保存一个墨屉书籍HTML文件。）
 
 手机端使用tiddloid.apk继续阅读（手机端的onedrive要在后台保持一直运行这样tiddloid的对onedrive的连接才不会断开。并且要阅读的书籍要设置允许脱机使用，这时第一次阅读时候就不会去先下载文件然后打开）。
 
-墨屉wiki导入书籍的流程：拖放书籍.json到墨屉（直接拖入浏览器），在墨屉的![图片](https://user-images.githubusercontent.com/32425955/166909870-f4871de5-c2f3-4c58-b7e4-cec6aeb66b0d.png)点击一下，选择倒三角形状的按钮，选择导入twpub书籍，然后会弹出一个条目，然后你就知道如何做啦。
+墨屉wiki导入书籍的流程：拖放**书籍.json**到墨屉（直接拖入浏览器），在墨屉的![图片](https://user-images.githubusercontent.com/32425955/166909870-f4871de5-c2f3-4c58-b7e4-cec6aeb66b0d.png)点击一下，选择倒三角形状的按钮，选择导入twpub书籍，然后会弹出一个条目，然后你就知道如何做啦。
 
-墨屉是由条目（卡片组成），可以通过筛选器搭配标签使用，实现渐进式阅读。算法是优于sm18的 FSRS 间隔重复算法。
+墨屉是由条目（卡片组成），可以通过筛选器搭配标签使用，实现渐进式阅读。算法采用优于sm18的 FSRS 间隔重复算法。
 
 
 
@@ -37,13 +39,12 @@ supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方
 
 2. 下载转换工具包
    
-   - 克隆转换工具仓库： https://github.com/TWPUB/TWPUB-Tools
-   
-   git clone https://github.com/TWPUB/TWPUB-Tools.git
-   
-   - 或者直接打包下载后解压也行
+   - 下载转换工具并解压得到TWPUB-Tools文件夹：https://github.com/Zacharia2/TWPUB-BOOK/releases/download/0.1.0/TWPUB-Tools.zip
 
-3. 进入到TWPUB-Tools目录，执行npm install
+3. 在项目中安装所有软件需要的依赖项
+   
+   - 在TWPUB-Tools文件夹中打开powershell并在窗口中执行命令**npm install** 安装依赖项
+
 4. 转换书籍：
     - 执行：node epub2twpub --epub <EPUB文件> --output <twpub文件输出路径>
     - 注意：必须得在刚刚下载的...\TWPUB-Tools 目录下执行！否则好像提示没有找到命令。
@@ -54,7 +55,13 @@ supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方
 ## 帮助链接
 
 https://github.com/TWPUB/TWPUB-Tools
+
 https://tw-cn.netlify.app/
+
+[SuperMemo渐进式阅读PDF书籍太麻烦？试试相同类型的墨屉吧！](https://www.bilibili.com/read/cv16649634)
+
+
+
 
 
 TiddlyWiki（太微）相关资源：中文教程、插件源、论坛、桌面应用
