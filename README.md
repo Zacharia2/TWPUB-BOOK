@@ -1,10 +1,12 @@
 # TWPUB墨屉
-1. 收录转换好的TiddlyWiki\墨屉格式的电子书（TWPUB）。
-2. 如果想自动化转换并共享电子书请查看此仓库：https://github.com/Zacharia2/TWPUB-Tools 
+1、 收录转换好的TiddlyWiki\墨屉格式的电子书（TWPUB）。
+2、 如果想自动化转换并共享电子书请查看此仓库：https://github.com/Zacharia2/TWPUB-Tools 
+
+<br>
 
 仅个人学习之用（本仓库不会删除，欢迎大家上传分享twpub图书，提交请求🙂！ 喜欢记得点小星星哦这是对我的鼓励，谢谢。爱你们！）
 
-
+<br>
 
 supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方式，所以我的渐进式阅读目标已经达成了，首先是找到自己想要渐进式阅读的电纸书epub。用TWPUB-Tools工具转换为TWPUB.json，然后拖放进墨屉，然后在墨屉**设置（小齿轮）-信息选项卡-基本组**重命名墨屉标题，设置为：**🦑墨屉+书名**。然后放进onedrive即可进入同步。
 
