@@ -28,7 +28,8 @@ supermemo导入电子书只适合纯文本书籍，TW有更好的更兼容的方
 只需要将电子书放进指定目录然后拖动TWPUBPluginLibrary-TiddlyMemo.tid文件到墨屉，使用![image](https://user-images.githubusercontent.com/32425955/169266021-6373981d-582a-4ad1-ad6b-2311c8c2abb8.png)中的![image](https://user-images.githubusercontent.com/32425955/169266047-e179cc38-8afe-4b5e-b011-6ef1e8c014bc.png)打开官方导入twpub书籍入口，可以看到墨屉社区书库，单击它即可选择自动生成好的电子书，然后导入。
 ![image](https://user-images.githubusercontent.com/32425955/169266515-2ead413a-5855-47ea-aed3-e879d72ecf13.png)
 
-TWPUBPluginLibrary-TiddlyMemo.tid下载链接：https://zacharia2.github.io/TWPUB-BOOK/TWPUBPluginLibrary-TiddlyMemo.tid
+
+墨屉共享书库（TWPUBPluginLibrary-TiddlyMemo.tid）下载链接：https://twpub-book.vercel.app/TWPUBPluginLibrary-TiddlyMemo.tid
 
 
 ## 一、回写式保存文件
@@ -68,7 +69,7 @@ TWPUBPluginLibrary-TiddlyMemo.tid下载链接：https://zacharia2.github.io/TWPU
 
 ## 帮助链接
 
-- https://github.com/TWPUB/TWPUB-Library
+- https://github.com/Zacharia2/TWPUB-Library
 
 - https://tw-cn.netlify.app/
 
