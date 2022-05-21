@@ -1,6 +1,6 @@
 # TWPUB墨屉
 
-我们的墨屉共享书库主页：https://zacharia2.github.io/TWPUB-BOOK/
+我们的墨屉共享书库主页：https://twpub-book.vercel.app/
 
 1、 收录转换好的TiddlyWiki\墨屉格式的电子书（TWPUB）。
 
@@ -68,11 +68,12 @@ TWPUBPluginLibrary-TiddlyMemo.tid下载链接：https://zacharia2.github.io/TWPU
 
 ## 帮助链接
 
-- https://github.com/TWPUB/TWPUB-Tools
+- https://github.com/TWPUB/TWPUB-Library
 
 - https://tw-cn.netlify.app/
 
 - [SuperMemo渐进式阅读PDF书籍太麻烦？试试相同类型的墨屉吧！](https://www.bilibili.com/read/cv16649634)
+- https://twpub-book.vercel.app/
 
 
 
