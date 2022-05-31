@@ -1,12 +1,10 @@
 # TWPUB墨屉
 
-我们的墨屉共享书库主页：https://twpub-book.vercel.app/
+本仓库作为墨屉共享书库的补充，详细使用方式请查看我们的墨屉共享书库主页：https://twpub-book.vercel.app/
 
-1、 收录转换好的TiddlyWiki\墨屉格式的电子书（TWPUB）。
+收录转换好的TiddlyWiki\墨屉格式的电子书（TWPUB）。
 
-2、 如果想自动化转换并共享电子书请查看此仓库：https://github.com/Zacharia2/TWPUB-Library
 
-<br>
 
 仅个人学习之用（本仓库不会删除，欢迎大家上传分享twpub图书，提交请求🙂！ 喜欢记得点小星星哦(*╹▽╹*)这是对我的鼓励，谢谢。爱你们！）也可以留下GitHub用户名或者电子邮件索要管理访问权限以便可以直接拖放添加书籍，无需fork或者PR请求。申请管理访问权限请提交issue。
 
